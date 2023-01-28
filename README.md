@@ -17,9 +17,16 @@
 ![image](https://user-images.githubusercontent.com/47541659/215292227-a53cd105-4ddd-4a39-b8b8-c09b0eb17441.png)
 ![image](https://user-images.githubusercontent.com/47541659/215292490-1f577211-5cf6-4e8b-9352-53cdc9de5cd3.png)
 ![image](https://user-images.githubusercontent.com/47541659/215292856-a260dceb-27b0-40e8-9258-5f3ab6c3f7d9.png)
-  - Crie um arquivo .gitignore para não subir coisas desnecessárias utilize o link para criar o seu https://www.toptal.com/developers/gitignore/api/
+  - Crie um arquivo .gitignore para não subir coisas desnecessárias utilize o link para criar o seu nesse link: https://www.toptal.com/developers/gitignore/api/
 
 - Configurando o Projeto
   - Instale o BoostrapVue ```npm install bootstrap-vue```
-  - E faça as importações no main.js. Passo a Passo na documentação oficial do [BootstrapVue](https://bootstrap-vue.org/docs#getting-started)
+  - E faça as importações no main.ts. Passo a Passo na documentação oficial do [BootstrapVue](https://bootstrap-vue.org/docs#getting-started), porém já com as devidas alterações para uso de Vue3.
+  ![image](https://user-images.githubusercontent.com/47541659/215294278-de0e2194-8219-4b60-9557-4c7ce7174f87.png)
+
+
+- Outros Lugares para consultar duvidas de Vue3 e configurações do VSCode
+  - Alterações do Vue2 para o Vue3: https://blog.cod3r.com.br/o-que-mudou-do-vue-2-para-o-vue-3/
+  - Como montar corrtetamente uma main: https://stackoverflow.com/questions/64032296/property-use-does-not-exist-on-type-typeof-property-extend-does-not-exi
+  - Configurações de TAB: https://www.youtube.com/watch?v=dyKVsRg0eDM&t=11s
   
