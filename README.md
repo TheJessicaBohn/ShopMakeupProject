@@ -10,5 +10,7 @@
  
 - :construction_worker_woman:	 Criando o Projeto:
   - Crie os pacotes json, rode os comandos  um após o outro: ```cd ShopMakeup```, ```npm install```, ```npm run lint```, ```npm run dev```
+  
   ![image](https://user-images.githubusercontent.com/47541659/215236782-3d886255-055a-482e-b180-498389c97d18.png)
+  - Crie um arquivo .gitignore para não subir coisas desnecessárias utilize o link para criar o seu https://www.toptal.com/developers/gitignore/api/
   
