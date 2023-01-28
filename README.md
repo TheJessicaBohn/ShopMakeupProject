@@ -11,7 +11,8 @@
  
 - :construction_worker_woman:	 Criando o Projeto:
   - Crie um projeto vue com: ```vue create shop_make_up ```
-  ![image](https://user-images.githubusercontent.com/47541659/215292046-59a59814-0f75-40b0-9eff-16b2955369bc.png)
+
+![image](https://user-images.githubusercontent.com/47541659/215292046-59a59814-0f75-40b0-9eff-16b2955369bc.png)
 ![image](https://user-images.githubusercontent.com/47541659/215292164-0adddad5-8d5f-4b8b-9ac2-721f94ee1c7d.png)
 ![image](https://user-images.githubusercontent.com/47541659/215292227-a53cd105-4ddd-4a39-b8b8-c09b0eb17441.png)
 ![image](https://user-images.githubusercontent.com/47541659/215292490-1f577211-5cf6-4e8b-9352-53cdc9de5cd3.png)
