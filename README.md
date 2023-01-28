@@ -7,6 +7,7 @@
   - Node: https://nodejs.org/en/download/ versão 14.18+ obrigatória, pois o vite só funciona com essa versão
   - Vue3:  https://vuejs.org/guide/quick-start.html#creating-a-vue-application ```npm init vue@latest```, minhas opções
   ![image](https://user-images.githubusercontent.com/47541659/215239237-2a0477b3-f0a9-431d-a89e-293dee34ea47.png)
+  - BootstrapVue: https://bootstrap-vue.org/vue3, https://bootstrap-vue.org/docs/#getting-started-with-nuxtjs
  
 - :construction_worker_woman:	 Criando o Projeto:
   - Crie os pacotes json, rode os comandos  um após o outro: ```cd ShopMakeup```, ```npm install```, ```npm run lint```, ```npm run dev```
