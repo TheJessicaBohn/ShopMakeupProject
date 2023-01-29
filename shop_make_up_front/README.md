@@ -1,4 +1,4 @@
-# shop_make_up
+# shop_make_up_front
 
 ## Project setup
 ```
@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Fontes para construir esse projeto:
+  - (Side bar com Vue + Bootstrap)[https://www.youtube.com/watch?v=zLypHbuuJyM]
+  - (NavBar Component)[https://bootstrap-vue.org/docs/components/navbar#navbar]
+  - (SideBar Component)[https://bootstrap-vue.org/docs/components/sidebar#sidebar]
+  - (Avatar Component)[https://bootstrap-vue.org/docs/components/avatar#avatar]
+  
+  
