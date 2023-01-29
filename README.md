@@ -20,13 +20,22 @@
   - Crie um arquivo .gitignore para não subir coisas desnecessárias utilize o link para criar o seu nesse link: https://www.toptal.com/developers/gitignore/api/
 
 - Configurando o Projeto
-  - Instale o BoostrapVue ```npm install bootstrap-vue```
+  - Instale o BoostrapVue ```npm i bootstrap-vue-3```
   - E faça as importações no main.ts. Passo a Passo na documentação oficial do [BootstrapVue](https://bootstrap-vue.org/docs#getting-started), porém já com as devidas alterações para uso de Vue3.
-  ![image](https://user-images.githubusercontent.com/47541659/215294278-de0e2194-8219-4b60-9557-4c7ce7174f87.png)
+  
+  ![image](https://user-images.githubusercontent.com/47541659/215296616-8aa12abd-3886-4f34-a231-38eebc59c9af.png)
+  - Porém podemos perceber que a tela que antes funcionava vai ficar em branco, então é necessário se fazer algumas alterações:
+     - Instalar o uma compatibilidade do Vue3 para o Bootstrap ```npm i @vue/compat```
+     ![image](https://user-images.githubusercontent.com/47541659/215297200-56bbe158-b5a6-4a28-81d9-e48fbf44eb12.png)
+     ![image](https://user-images.githubusercontent.com/47541659/215297227-ca818985-afb0-4d22-b3e3-aa3c33f50148.png)
+     ![image](https://user-images.githubusercontent.com/47541659/215297238-48ef03df-6d56-4de1-b4df-f41f98c8e2fb.png)
 
 
-- Outros Lugares para consultar duvidas de Vue3 e configurações do VSCode
+
+- Outros Lugares para consultar duvidas de Vue3 e configurações do VSCode, acima o meu passo a passo foi um resumo de todas essas fontes, para concluir esse projeto
   - Alterações do Vue2 para o Vue3: https://blog.cod3r.com.br/o-que-mudou-do-vue-2-para-o-vue-3/
   - Como montar corrtetamente uma main: https://stackoverflow.com/questions/64032296/property-use-does-not-exist-on-type-typeof-property-extend-does-not-exi
+  - Migração do Bootstrap para Vue3: https://v3-migration.vuejs.org/migration-build.html
+  - Como usar Bootstrap com Vue3: https://stackoverflow.com/questions/63570340/how-to-use-vue-3-add-plugin-boostrap-vue
   - Configurações de TAB: https://www.youtube.com/watch?v=dyKVsRg0eDM&t=11s
   
