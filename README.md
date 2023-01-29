@@ -22,7 +22,8 @@
 - Configurando o Projeto
   - Instale o BoostrapVue ```npm install bootstrap-vue```
   - E faça as importações no main.ts. Passo a Passo na documentação oficial do [BootstrapVue](https://bootstrap-vue.org/docs#getting-started), porém já com as devidas alterações para uso de Vue3.
-  ![image](https://user-images.githubusercontent.com/47541659/215294278-de0e2194-8219-4b60-9557-4c7ce7174f87.png)
+  ![image](https://user-images.githubusercontent.com/47541659/215296616-8aa12abd-3886-4f34-a231-38eebc59c9af.png)
+
 
 
 - Outros Lugares para consultar duvidas de Vue3 e configurações do VSCode
