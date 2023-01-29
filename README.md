@@ -1,5 +1,6 @@
 # ShopMakeupProject
-- site para loja de maquiagem
+- Exemplo de Vue3 com Bootstrap
+- Exemplo de site para loja de maquiagem
 
 - :hammer_and_wrench: Ferramentas utilizadas, instale na ordem que elas estão listadas: 
   - VSCode: https://code.visualstudio.com/Download
